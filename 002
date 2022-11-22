@@ -70,7 +70,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/abyayala.tv.bo/wp-content/uploads/2021/06/logo-blanco-abya-yala-television-2021-bolivia-1.png?fit=288%2C140&ssl=1"group-title="Bolivia",AbyaYala
-https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w1796407671.m3u8
+https://master.tucableip.com/abyayalatvsd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="Bolivia",CadenaA
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w319019668.m3u8
 #EXTINF:-1 tvg-logo="https://www.abi.bo/images/logos/BTV-wipala.png"group-title="Bolivia",BoliviaTV 7.1
@@ -185,26 +185,14 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1486727684.m3u8
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/ANIMAL-PLANET-Logo-white_0.png"group-title="",AnimalPlanet
 http://190.92.25.115:8000/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341747242319962115/uU98tjgX_400x400.jpg"group-title="",National Geographic
-http://190.108.83.142:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="",History Channel
-http://45.5.119.202:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png"group-title="",Discovery Theater
 http://190.92.25.115:8000/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png"group-title="",Discovey Channel
-http://45.162.135.1:1080/play/a094
 #EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2022/01/AE.jpg"group-title="",A&E
 http://190.92.25.115:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png"group-title="",El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1311346406_b1296000_sleng.m3u8
 
 CINE
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
-http://45.162.135.1:1080/play/a09c
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="",WARNER TV
-http://45.162.135.1:1080/play/a09d
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/66/2c/d6662cdffe29a10ece126d8df283ecee.jpg"group-title="",Comedy Central
-http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mindlessones.com/wp-content/uploads/2013/10/vlcsnap-00003.jpg"group-title="",DRWHO ES
@@ -336,45 +324,29 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1999901142.m3u8
 #EXTINF:-1 tvg-logo="https://ia904609.us.archive.org/29/items/1019-latino-kids-tv/1019_Latino_Kids_TV.png"group-title="INFANTILES",LATINO KIDS
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1325884744.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a69f7bc3b7374fd780d55884f220ccee~mv2.png",GOGO PLAY TV
-https://live-eu-1.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8
+https://live-eu-2.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_077bb8ded81f480e8de70012f673126d~mv2.png"group-title="",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.Tooncast.png.0fe57e8d842b86dab0a697f23d51c14b.png"group-title="",TOONCAST
-http://45.5.119.202:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png"group-title="",Cartoons Network
-http://45.5.119.202:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="",Discovery Kids
-http://45.5.119.202:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/12/Cartoonito-Logo.png"group-title="",Cartoonito
-http://45.5.119.202:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_33734e333a62430e97a7826be583d44c~mv2.png"group-title="",BabyFirst
-http://45.5.119.202:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ed54ba0e62ef41f1bbf2a56a3485ee57~mv2.png"group-title="",SmartJunior
-http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png"group-title="",Nickelodeon
-http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png"group-title="",NickJR
-http://190.108.83.142:8000/play/a00u/index.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="",Diosteve Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logostv.es/storage/channels/logo-kids.png"group-title="",LOGOS KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w663686679.m3u8
+#EXTINF:-1  tvg-logo="https://redtal.tv/storage/3262/IPe_2020_200x200.png",ipe  PE
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="",PLANETA JUNIOR TV1
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="",PLANETA JUNIOR TV2
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=117b&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Fix_and_Fox_Channel_Logo.png"group-title="",Fix & Foxi TV
-https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/manifest/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/b4506036-0e93-4295-8259-8b8d731baf06/4.m3u8
-#EXTINF:-1  tvg-logo="https://redtal.tv/storage/3262/IPe_2020_200x200.png",ipe  PE
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1379909721721823233/uBcLvTIN_400x400.jpg"group-title="",PEQUE RADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png"group-title="",PAKA PAKA BABY
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w293767140.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_639e6bc1a48c42f285e3f7ba7f5a1b94~mv2.png"group-title="",DUCKTV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Caillou-logo.png"group-title="",CAILLOU ES
 https://dhx-caillou-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Fix_and_Fox_Channel_Logo.png"group-title="",Fix & Foxi TV
+https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/manifest/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/d003f140-6a6e-4256-b1a6-fe38fd68c66a/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/a2/99/93a299b41e4a7e0e7a4ec4a683956a63.jpg"group-title="",BABYSHARK MX
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2492092642.jpg"group-title="",TELETUBIES BABY
@@ -453,7 +425,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
 #EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png"group-title="TV LIBRE",TOP Latino
 
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w1368509246.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w2051575533.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_09/large.1611336780_12.1-XHSAWTeleritmo.png.29062bd50ea09887c6c4e42cecfff260.png",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png",Zapping Music
