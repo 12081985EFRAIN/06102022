@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX-SucreBolivia
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9d2a29ea8c0546a398cb99d3fa0e0b3f~mv2.png"group-title="",MUNDOMIX Radio
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"group-title="",TUDN USA
-http://slp2.noxity.online:8081/oobs/studn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"group-title="",TUDN
-http://imaxplay.net:8080/live/38mix/SUXBK/185148.ts
+#EXTINF:-1 tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/10/captura2.png"group-title="",Ciudad Mágica Radio
+https://sonidosenlared.fullstreaming.ar/8002/stream
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b993b63b96534457a123c1fe43674638~mv2.png"group-title="",Ciudad Mágica TV
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-id="1254" tvg-name="City Sports TV" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png",City Sports TV
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png"group-title="",FOX SPORTS 2
@@ -13,8 +13,8 @@ http://190.92.25.115:8000/play/a0ab/index.m3u8
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1614c309afed46fcad1183dc5f178db8~mv2.png" tvg-group="DEPORTES",FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_99983b48130d421e8130f11dc38748e3~mv2.png"group-title=",ESPN EXTRA2
-http://45.5.119.202:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png"group-title="",TUDN USA
+http://slp2.noxity.online:8081/oobs/studn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a6/ec/51/a6ec51288397e1a0860ad4aadce0be84.jpg"group-title="",GOL PE
 
 http://slp2.noxity.online:8081/oracle/GOL_PERU/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
@@ -94,6 +94,8 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://renuevadigital.com.bo/assets/img/icono.png"Bolivia",RENUEVA TV
 https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3ede3ab9e5b64ddcb6ba215a1caf6c91~mv2.png"group-title="",SEO DEPORTE/PELICULAS
+https://panel.seo.tv.bo:3314/live/seolive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cf58f498b34647bc81d3a5338d7a09e5~mv2.png"group-title="Canales Bolivianos",SEO TV
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_280acad52b99492b8531d4949808a04d~mv2.png"group-title="Canales Bolivianos",SEO TV NOVELAS
@@ -301,6 +303,30 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="",EnerGeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png", EnerGeek Radio | CL
+
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", EnerGeek Señal 1 | CL
+
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png", Energeek Señal 2 | CL
+
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png", EnerGeek Señal 3 | CL
+
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1269" tvg-name="EnerGeek Señal 4" tvg-logo="https://i2.paste.pics/256571eecddd2c7e0156fc340b900787.png", EnerGeek Señal 4 | CL
+
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png", Moni TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1107" tvg-name="Wowly" tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png", Wowly
+https://stream.wowlymedia.com/hls/stream/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b80b501d73447c960c2c7715ad4a41~mv2.png"group-title="",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w648188036.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg"group-title="",ACS NETWORK
@@ -405,7 +431,9 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c39f2f0372584bda843b1ed66484df48~mv2.png"group-title="",TurboMIX TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV SD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b5e4716a20be48cea54eabaacd28345c~mv2.png"group-title="",RETRO TV
+https://stream.mediawork.cz/retrotv/retrotv2.smil/chunklist_w2141478977_b750000.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/318_TVO_Tocopilla.png",TVO Tocopilla 720p
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
