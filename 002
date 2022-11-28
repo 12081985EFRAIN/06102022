@@ -9,6 +9,10 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1281
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_db88f07dfa97416eb92f17fb4ad816d2~mv2.png"group-title="",TVP
 http://play.flamaplus.tv/live/ctvDS321/427ddJG4/425.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="",CHILEVISION
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56a40cad242145d0967de9f58235c293~mv2.png"group-title="",TELEAMAZONIAS
+https://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1bce6e04b88044a68fa5dfc3c44aecec~mv2.png"group-title="",Directv Sports
 http://62.210.201.74:8001/appskingfulltv/f8474x12cerXS2/1286
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="",Directv Sports
@@ -49,10 +53,6 @@ https://api55.tvgratis.live/streams3/tigocr.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/450_1000.jpeg"group-title="",VIX LIGA MX
 https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
 http://45.5.119.202:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56a40cad242145d0967de9f58235c293~mv2.png"group-title="",TELEAMAZONIAS
-https://play.flamaplus.tv/live/ctvDS321/427ddJG4/543.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b89dccea3e70475ca99ffdcea3060ac9~mv2.png"group-title="",CHILEVISION
-http://play.flamaplus.tv/live/ctvDS321/427ddJG4/473.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c36b9d281a774cb8953d775881a4db6a~mv2.png"group-title="PERU",Best Cable Sports PE
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PvbxdvYqCV.png"group-title="PERU",Ovacion
